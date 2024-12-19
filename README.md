@@ -2,7 +2,7 @@
 Partições no Quick Sort: Estudo Comparativo com Merge Sort e Heap Sort Através de Experimentos Computacionais
 
 ## Descrição
-Dispõe-se dos seguintes códigos para se realizar uma análise experimental dos algoritmos de ordenação Quick Sort - um para Hoare e outro ara Lommuto - além de Merge Sort e Heap Sort.
+Dispõe-se dos seguintes códigos para se realizar uma análise experimental dos algoritmos de ordenação Quick Sort - um para Hoare e outro ara Lomuto - além de Merge Sort e Heap Sort.
 1. Quick usando Loare <br>
    Escolhe-se um pivô e rearranja-se os elementos de forma a dividir o array em duas partes - menores a esquerda e maiores a direita - para que de forma recursiva ele seja ordenado.
 2. Quick usando Lomuto <br>
