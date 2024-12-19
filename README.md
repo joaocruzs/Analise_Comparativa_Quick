@@ -12,5 +12,5 @@ Dispõe-se dos seguintes códigos para se realizar uma análise experimental dos
 4. Heap Sort <br>
    Transforma o array em uma heap máxima, remove o maior elemento (raiz) iterativamente e ajusta a heap até ordenar todos os elementos.
 5. Create Array <br>
-   O referido algorimto recebe um valor de entrada, é responsável pela criação de arquivos .txt com números a serem ordenados.
+   O referido algoritmo recebe um valor de entrada, é responsável pela criação de arquivos .txt com números a serem ordenados.
 
